@@ -2,6 +2,7 @@ import os
 import pandas
 import glob
 import json
+from . import definitions
 
 
 def clean_data(data_file):
