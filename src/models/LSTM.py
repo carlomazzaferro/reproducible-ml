@@ -2,7 +2,7 @@ from base import Base
 import tflearn
 import tensorflow as tf
 import numpy
-import utilities
+from utils import utilities
 
 
 class LSTM(Base):
