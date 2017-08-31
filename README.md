@@ -93,7 +93,7 @@ coming for instance from a Jupyter Notebook from where preliminary analyses were
 will store your data to `/reproducible-ml/data/processed` so that it can be consumed by your model.
 
 #### Models
-Implement your models in the `scr/models` directory. Again, a boilerplate code is provided, and a complete exemple can be found
+Implement your models in the `scr/models` directory. Again, a boilerplate code is provided, and a complete example can be found
  [here](https://github.com/carlomazzaferro/numerai_easy_ml). Ideally, you'd run them simply as `python src/models/MODEL_N.py`, 
  but nothing prevents you from importing them to a Jupyter Notebook and run them there. 
  
